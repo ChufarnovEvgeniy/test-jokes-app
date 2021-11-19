@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_text_size">24sp</dimen>
+    <dimen name="main_margin">8dp</dimen>
+    <dimen name="count_input_layout_min_width">200dp</dimen>
+</resources>

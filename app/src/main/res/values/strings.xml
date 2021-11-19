@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TestJokesApp</string>
+    <string name="error_message">Could not load data</string>
+    <string name="count_hint">Count</string>
+    <string name="reload">reload</string>
+    <string name="web">Web</string>
+    <string name="jokes">Jokes</string>
 </resources>
